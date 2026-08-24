@@ -155,13 +155,7 @@ Stack: HTML • CSS • JavaScript
 
 </div>
 
-🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akashsky7755&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies"/>
-
-</div>
 
 📅 Contribution Overview
 
