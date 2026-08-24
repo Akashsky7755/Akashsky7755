@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://github.com/Akashsky7755.png?size=220" width="150" alt="Akash Gautam GitHub profile picture"/>
+
 
 <p>
   <a href="https://github.com/Akashsky7755"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
